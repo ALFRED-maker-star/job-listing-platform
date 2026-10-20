@@ -1,0 +1,6 @@
+{
+  "name": "WorkFind",
+  "description": "Job listing platform for applicants and employers with job search, filters, applications, profile management, and employer dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
